@@ -4,7 +4,7 @@ This project is a **Netflix Sign-In and Log-In page clone**, built using **HTML*
 
 ## 🔗 Live Demo
 
-Check out the live version here: (https://github.com/yverma7199/Netfilx-clone.git)
+Check out the live version here: (https://yverma7199.github.io/Netfilx-clone/)
 
 ## 📸 Screenshots
 
